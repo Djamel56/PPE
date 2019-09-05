@@ -1,0 +1,26 @@
+body
+{
+	background-image:url("images/bg3.jpg");
+}
+
+
+img
+{
+	display:block;
+	width:auto;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:15px;
+}
+
+h1
+{
+	text-align:center;
+	font-family:Comic sans MS;
+	color:#13BCDE;
+	font-weight:bold;
+	font-style:italic;
+}
+
+/*Hors forfaitaire : Date, Libelle, Montant*/
+
